@@ -9,7 +9,6 @@ const userSchema = new Schema({
     },
     email:{
         type:String,
-        require:true
     },
     Service:{
         type:String,
